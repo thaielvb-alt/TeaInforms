@@ -1,0 +1,13 @@
+{
+  "id": "InformeBeta1",
+  "titulo": "Nuevo diseño del Launcher",
+  "info": "Dinos qué te parece la nueva interfaz que estamos desarrollando. ¿Te gusta el nuevo botón de informes?",
+  "imagenes": ["TeaLogo.png"],
+  "votacion_activa": true,
+  "opciones_votacion": ["Me encanta", "Prefiero el anterior", "Me da igual"],
+  "finalizado": false,
+  "descargas": {
+    "windows": "https://enlace-a-tu-recurso-windows.com",
+    "linux": "https://enlace-a-tu-recurso-linux.com"
+  }
+}
