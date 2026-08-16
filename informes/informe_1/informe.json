@@ -6,8 +6,10 @@
   "votacion_activa": true,
   "opciones_votacion": ["Me encanta", "Prefiero el anterior", "Me da igual"],
   "finalizado": false,
+  "descargas_activas": true,
   "descargas": {
     "windows": "https://enlace-a-tu-recurso-windows.com",
-    "linux": "https://enlace-a-tu-recurso-linux.com"
+    "linux": "https://enlace-a-tu-recurso-linux.com",
+    "otro": "https://www.google.com"
   }
 }
