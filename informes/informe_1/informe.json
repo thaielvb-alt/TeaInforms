@@ -2,7 +2,7 @@
   "id": "InformeBeta1",
   "titulo": "Nuevo diseño del Launcher",
   "info": "Dinos qué te parece la nueva interfaz que estamos desarrollando. ¿Te gusta el nuevo botón de informes?",
-  "imagenes": ["TeaLogo.png"],
+  "imagenes": ["TeaLogo.png", "2.png"],
   "votacion_activa": true,
   "opciones_votacion": ["Me encanta", "Prefiero el anterior", "Me da igual"],
   "finalizado": false,
